@@ -10,3 +10,7 @@ unbind p
 bind-key p run-shell "tmux-popup"
 ```
 
+## Inspiration
+
+- https://blog.meain.io/2020/tmux-flating-scratch-terminal/
+
